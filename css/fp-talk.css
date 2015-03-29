@@ -681,3 +681,7 @@ a:focus {
     background-image: url(http://images.nationalgeographic.com/wpf/media-live/photos/000/109/cache/curled-fern-leaf_10938_990x742.jpg);
     color: rgb(215,215,215)
 }
+
+.quote-too-long {
+    font-size: 25%
+}
