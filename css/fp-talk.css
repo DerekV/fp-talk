@@ -676,3 +676,8 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+#curtain-card {
+    background-image: url(http://images.nationalgeographic.com/wpf/media-live/photos/000/109/cache/curled-fern-leaf_10938_990x742.jpg);
+    color: rgb(215,215,215)
+}
